@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 /**
  * ALGORITMO Calcular la serie -3^0 + 1^1/5 - 7^1 + 2^1/11 - 13^3 + 5^1/17 - 19^8 + 13^1/23+..
+ * DESARROLLADO POR ALVARO MONTESDEOCA
  * */
 public class Serie {
 
