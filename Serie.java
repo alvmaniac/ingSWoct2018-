@@ -21,7 +21,7 @@ public class Serie {
 		int signo;
 		double suma;
 //		Captura de datos
-		System.out.println("Ingrese el # de terminos: ");
+		System.out.println("Ingrese el # de terminos de la serie: ");
 		limite=l.nextInt();
 //		calculos	
 		contador=0; primero=0; segundo=1; fibo=0; genNum=2; signo=-1; suma=0;
